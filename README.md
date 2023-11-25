@@ -59,7 +59,7 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
-![Uploading ex3.png…]()
+![ex3](https://github.com/SETHUKKARASI3006/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/144979338/37ea0838-8f17-47f2-8e46-db605c2b3d3a)
 
 ### Name: SETHUKKARASI  C
 ### Register Number:23012881
